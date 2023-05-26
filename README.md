@@ -12,3 +12,6 @@ En este apartado van a subir los datos.
 En este apartado van a subir sus proyectos.
 
 final del test de sincronización
+
+Gracias
+
